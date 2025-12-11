@@ -6,7 +6,7 @@ class Krunkit < Formula
   license "Apache-2.0"
 
   bottle do
-    root_url "https://raw.githubusercontent.com/slp/homebrew-krunkit/master/bottles"
+    root_url "https://raw.githubusercontent.com/VincentCoriou/homebrew-krunkit/master/bottles"
     sha256 cellar: :any, arm64_sequoia: "f65558c99cd6f8e7d6b4889abf02b77029c115b24f8c0ce81c6b5a8b658a5cc5"
   end
 
